@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Project Introduction`
+This is a react app for generating a tournament bracket.\
+I have implemented the logic into wordpress to generate tournaments for a local martial arts club.\
+I have pushed my code to github to make an open source tournament bracket generator.\
+It is not finished yet - I’m adding more details to have stand alone functionality.
+
 ### `npm start`
 
 Runs the app in the development mode.\
